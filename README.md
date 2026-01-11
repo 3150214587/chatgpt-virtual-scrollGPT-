@@ -1,6 +1,6 @@
 # 🚀 **ChatGPT Virtual Scroll Engine**  
 ### **ChatGPT 网页长对话虚拟滚动引擎**
-
+link：https://openuserjs.org/scripts/Mr._K,_The_Creator/Better_ChatGPT_Assistant%EF%BC%88%E6%9B%B4%E5%A5%BD%E7%9A%84ChatGPT%E7%BD%91%E9%A1%B5%E7%89%88%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%E5%B0%8F%E5%8A%A9%E6%89%8B%EF%BC%89
 **Below is the bilingual introduction in Chinese and English:**  
 **以下为中英文双语介绍：**
 
