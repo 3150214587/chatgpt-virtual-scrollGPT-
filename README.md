@@ -49,6 +49,44 @@ It only keeps messages near your screen, and safely compresses everything else.
 - 三种性能模式（性能 / 平衡 / 保守）  
 - iOS 风格悬浮仪表盘  
 - 本地运行，无联网、无追踪、无上传  
+✨ Key Features｜核心功能
+🚀 Long Chat Acceleration｜长对话加速（核心）
+Virtualize off-screen conversation turns to reduce DOM & memory pressure
+屏幕外消息自动折叠占位，降低网页负载，长对话更顺滑
+Health status dot (Green / Yellow / Red)
+顶栏健康灯：绿=健康，黄=偏高，红=接近卡顿
+🧭 Compact Dashboard｜极简面板
+3 modes: Performance / Balanced / Conservative
+三段模式：性能 / 平衡 / 保守
+One-click “Optimize Now” (does NOT delete chat content)
+一键“强制优化”（不删聊天内容，只是更激进折叠远处历史）
+Pin & drag the widget (optional)
+支持钉住与拖拽定位
+🧰 Productivity Tools｜效率工具
+Export chat to Markdown (UTF-8 BOM)
+导出 Markdown（兼容中文 BOM）
+Fold/unfold code blocks
+一键收展代码块
+Token estimate
+Token 粗略估算（按字符近似）
+🌐 i18n｜中英切换
+Toggle UI language between 中文 / English
+面板按钮中英切换
+🧑‍💻 How to Use｜使用方法
+Install via Tampermonkey / Violentmonkey
+用 Tampermonkey / Violentmonkey 安装脚本
+Open ChatGPT Web:
+打开 ChatGPT 网页版：
+https://chatgpt.com/
+https://chat.openai.com/
+The small status dot / dashboard appears near the model switch button.
+小圆点/面板会出现在“模型切换按钮”附近
+Tips｜小提示
+
+When using Ctrl+F, virtualization pauses automatically so browser search can find all history.
+使用 Ctrl+F 搜索时会自动暂停虚拟化，确保能搜到全部历史，按 Esc 退出搜索后自动恢复。
+“Optimize Now” reduces page load immediately; chat content remains safe.
+“强制优化”会立刻变轻，不影响聊天内容本身。
 
 ---
 
