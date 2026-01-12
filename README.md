@@ -7,7 +7,10 @@ link：https://openuserjs.org/scripts/Mr._K,_The_Creator/Better_ChatGPT_Assistan
 
 Better ChatGPT Assistant Fix ChatGPT web lag on long conversations using smart virtual scrolling.  
 Better ChatGPT Assistant 使用智能虚拟滚动技术，解决 ChatGPT 网页版长对话卡顿问题。
-
+<div align="center">
+  <img src="你的中文图片链接.png" width="45%" alt="中文介绍" />
+  <img src="你的英文图片链接.png" width="45%" alt="English Intro" />
+</div>
 ---
 
 # 🚀 **What is this? | 这是什么？**
