@@ -1,7 +1,9 @@
 # 🚀 **Better ChatGPT Assistant（更好的ChatGPT:网页版多功能增强小助手）ChatGPT Virtual Scroll Engine🚀**  
 
 ### 🚀**Better ChatGPT Assistant（更好的ChatGPT:网页版多功能增强小助手）ChatGPT 网页长对话虚拟滚动引擎🚀**
-link：https://openuserjs.org/scripts/Mr._K,_The_Creator/Better_ChatGPT_Assistant%EF%BC%88%E6%9B%B4%E5%A5%BD%E7%9A%84ChatGPT%E7%BD%91%E9%A1%B5%E7%89%88%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%E5%B0%8F%E5%8A%A9%E6%89%8B%EF%BC%89
+小红书售卖sell link（10元，失业在家赚点泡面钱，自从2025.10月一直没工作没存款，谢谢大家）：
+40 【（6.0）失业在家的我写了GPT长对话优化工具 - 万能的momo | 小红书 - 你的生活兴趣社区】 😆 brL88kQftWmpDBZ 😆 https://www.xiaohongshu.com/discovery/item/69637564000000002202dfe5?source=webshare&xhsshare=pc_web&xsec_token=AB9lul4JtnDDDzI6IG1jhhhwNLFPQGf1If2GpEQbZAOQQ=&xsec_source=pc_share
+https://www.xiaohongshu.com/user/profile/637cd41f000000001f014363
 **Below is the bilingual introduction in Chinese and English:**  
 **以下为中英文双语介绍：**
 
@@ -215,27 +217,6 @@ If this tool helps you, you can support development by:
 - GitHub Star ⭐  
 - Submitting issues or suggestions  
 - Donation (WeChat / Alipay QR code in repo)  
-
----
-
-# 🧩 **License | 开源协议**
-
-MIT License – Free to use, modify and distribute.  
-MIT 开源协议，可自由使用与修改。
-
----
-
-# 📌 **Roadmap | 开发计划**
-
-- One-click export & new chat  
-- Edge / Chrome extension  
-- Automatic memory cleanup  
-- Mobile-friendly UI  
-- Mr._K,_The_Creator / Better ChatGPT Assistant（更好的ChatGPT网页版多功能增强小助手）
-- Version: 6.2.0+4b972d9
-- Summary: Better ChatGPT Assistant powered by Virtual Scroll Engine 6.0 — ultra-smooth long chats, export, token monitor, i18n, and more.
- Antifeature: unspecified
----
 
 ## ☕ **Buy Me a Coffee | 微信赞赏**
 
