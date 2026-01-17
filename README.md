@@ -1,7 +1,7 @@
 # 🚀 **Better ChatGPT Assistant（更好的ChatGPT:网页版多功能增强小助手）ChatGPT Virtual Scroll Engine🚀**  
+### 🚀**Better ChatGPT Assistant（更好的ChatGPT:网页版多功能增强小助手）ChatGPT 网页长对话虚拟滚动引擎🚀
+小红书售卖sell link（10元，自从2025.10月一直没工作没存款，失业在家赚点泡面钱，谢谢大家）：**
 
-### 🚀**Better ChatGPT Assistant（更好的ChatGPT:网页版多功能增强小助手）ChatGPT 网页长对话虚拟滚动引擎🚀**
-小红书售卖sell link（10元，失业在家赚点泡面钱，自从2025.10月一直没工作没存款，谢谢大家）：
 40 【（6.0）失业在家的我写了GPT长对话优化工具 - 万能的momo | 小红书 - 你的生活兴趣社区】 😆 brL88kQftWmpDBZ 😆 https://www.xiaohongshu.com/discovery/item/69637564000000002202dfe5?source=webshare&xhsshare=pc_web&xsec_token=AB9lul4JtnDDDzI6IG1jhhhwNLFPQGf1If2GpEQbZAOQQ=&xsec_source=pc_share
 https://www.xiaohongshu.com/user/profile/637cd41f000000001f014363
 **Below is the bilingual introduction in Chinese and English:**  
