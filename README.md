@@ -1,6 +1,6 @@
 # 🚀 **Better ChatGPT Assistant（更好的ChatGPT:网页版多功能增强小助手）ChatGPT Virtual Scroll Engine🚀**  
 ### 🚀**Better ChatGPT Assistant（更好的ChatGPT:网页版多功能增强小助手）ChatGPT 网页长对话虚拟滚动引擎🚀
-小红书售卖sell link（10元，自从2025.10月一直没工作没存款，失业在家赚点泡面钱，谢谢大家）：**
+小红书售卖sell link（20元，自从2025.10月一直没工作没存款，失业在家赚点泡面钱，谢谢大家）：**
 
 40 【（6.0）失业在家的我写了GPT长对话优化工具 - 万能的momo | 小红书 - 你的生活兴趣社区】 😆 brL88kQftWmpDBZ 😆 https://www.xiaohongshu.com/discovery/item/69637564000000002202dfe5?source=webshare&xhsshare=pc_web&xsec_token=AB9lul4JtnDDDzI6IG1jhhhwNLFPQGf1If2GpEQbZAOQQ=&xsec_source=pc_share
 https://www.xiaohongshu.com/user/profile/637cd41f000000001f014363
@@ -135,7 +135,7 @@ You can switch modes in real time using the iOS-style segmented control.
 
 # 📦 **Installation | 安装方法**
   方法1：
-  购买后，按照里面教程安装[https://openuserjs.org/scripts/Mr._K,_The_Creator/Better_ChatGPT_Assistant%EF%BC%88%E6%9B%B4%E5%A5%BD%E7%9A%84ChatGPT%E7%BD%91%E9%A1%B5%E7%89%88%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%E5%B0%8F%E5%8A%A9%E6%89%8B%EF%BC%89](https://www.xiaohongshu.com/explore/69637564000000002202dfe5?source=webshare&xhsshare=pc_web&xsec_token=AB9lul4JtnDDDzI6IG1jhhhwNLFPQGf1If2GpEQbZAOQQ=&xsec_source=pc_share)
+  购买后，按照里面教程安装
 浏览器点击云盘链接安装油猴脚本，前提是你有油猴插件
  **Open ChatGPT | 打开**  
    https://chat.openai.com  
