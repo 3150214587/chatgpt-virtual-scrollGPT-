@@ -135,7 +135,7 @@ You can switch modes in real time using the iOS-style segmented control.
 
 # 📦 **Installation | 安装方法**
   方法1：
-  购买后，按照里面教程安装
+  购买后，按照里面教程安装install main.json  to tampermonkey
 浏览器点击云盘链接安装油猴脚本，前提是你有油猴插件
  **Open ChatGPT | 打开**  
    https://chat.openai.com  
