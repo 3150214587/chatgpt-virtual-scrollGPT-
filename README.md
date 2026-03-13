@@ -221,5 +221,45 @@ paypal：https://paypal.me/DKW3588
 
 Thank you for your kindness 🙏  
 感谢你的善意  
+## A Note from the Sole Maintainer: Why This Project Deserves Codex for Open Source Support
 
+As the sole core maintainer and developer of chatgpt-virtual-scrollGPT-, I've poured my heart into this project since October 2025 (post-unemployment motivation!). With 38 commits, deep performance tuning, real user feedback integration, i18n (Chinese/English), donation links, and a paid Xiaohongshu version — all driven by my genuine admiration for **OpenAI and ChatGPT**.
+
+ChatGPT is one of the most revolutionary AI products in human history — it has transformed how millions work, learn, and create. Yet, the official web interface struggles with lag, memory bloat, and crashes in very long conversations, frustrating countless users (including myself). This virtual scrolling engine is my humble contribution back to the **OpenAI ecosystem**: a pure frontend optimization that dramatically improves ChatGPT's responsiveness and reliability, letting users fully unleash the power of GPT models without browser limitations.
+
+Key alignments with OpenAI values:
+- 100% local execution, zero data tracking or uploads — fully privacy-respecting.
+- Already 22+ stars, real paying users, and positive Xiaohongshu feedback — proven meaningful adoption.
+- Three intelligent modes (Performance / Balanced / Conservative), real-time DOM/heap monitoring, one-click optimization, Markdown export, token estimation — empowering everyday users to manage epic-length chats effortlessly.
+
+I'm a classic "absolute grinder": detail-obsessed, persistently iterating, deeply passionate about open source and AI. If the Codex for Open Source team grants me high-quota Codex access, I will channel it into:
+- Even more advanced virtualization algorithms
+- Exploring multimodal enhancements (e.g., images/voice integration)
+- Building community demos and wider promotion — helping more people love ChatGPT while deepening reliance on OpenAI's frontier models
+
+Thank you, OpenAI, for launching Codex for Open Source — a program that empowers independent contributors like me to give back to the ecosystem we all love.  
+**ChatGPT is incredible. OpenAI is changing the world.**  
+I’m ready to prove this project's value and my dedication through action. Excited to potentially join the Codex OSS family! 🚀❤️
+
+Support the project: GitHub Star / Donations (PayPal / WeChat) / Xiaohongshu paid version — every bit fuels ongoing maintenance and improvements.
+## 项目维护者的话：为什么这个小工具值得 OpenAI 的支持
+
+作为 chatgpt-virtual-scrollGPT- 的唯一核心维护者，我从失业后（2025 年 10 月起）就把全部精力投入这个项目：38 次 commit、深度性能调优、用户反馈迭代、i18n 中英切换、捐款通道和小红书付费版……这一切，都是因为我太热爱 **OpenAI 创造的 ChatGPT** 了！
+
+ChatGPT 是人类历史上最伟大的 AI 产品之一，它改变了无数人的工作、学习和创作方式。但官方网页在超长对话时出现的卡顿、内存爆炸、崩溃等问题，确实让数百万用户（包括我自己）感到遗憾和无奈。这个虚拟滚动引擎，正是我对 **OpenAI 生态** 的小小回馈：用前端智能优化，直接提升 ChatGPT 网页的流畅度和可用性，让用户能尽情享受 GPT 模型的无限潜力，而不用担心浏览器崩溃。
+
+- 它 100% 本地运行、无任何数据追踪，完美契合 OpenAI 对隐私和安全的重视。
+- 已获 22+ stars、真实付费用户和小红书反馈，证明它确实帮到了人。
+- 三种模式 + 实时监控 + 一键优化，让普通用户也能轻松管理长对话——这正是社区能为 OpenAI 产品锦上添花的地方。
+
+我是一个典型的 “absolute grinder”：专注细节、持续迭代、对开源充满热情。如果 Codex for Open Source 团队愿意给我高额度 Codex 支持，我会全力把这些能力转化为：
+- 更极致的性能算法优化
+- 多模态支持探索（未来结合图片/语音）
+- 社区 demo 和推广（让更多人爱上 ChatGPT 的同时，也更依赖 OpenAI 的前沿模型）
+
+感谢 OpenAI 推出 Codex for Open Source 这样的计划，让像我这样的独立开发者有机会用顶级工具回馈生态。  
+**ChatGPT 太棒了！OpenAI 太伟大了！**  
+期待能成为 Codex OSS 大家庭的一员，用实际行动证明这个项目的价值和我的执行力！🚀❤️
+
+支持方式：GitHub Star / 捐款（PayPal / WeChat） / 小红书付费版，都会让我更有动力继续维护～
 ---
